@@ -1,2 +1,12 @@
 # ilarisEnglishMarkdown
 [Introduction](000introduction.md)
+[Checks](001checks.md)
+[Characters](002characters.md)
+[Health](003health.md)
+[Combat](004combat.md)
+[Mundane](005mundane.md)
+[Magic](006magic.md)
+[Karma](007karma.md)
+[Pactbounded](008pactbounded.md)
+[Creatures](009creatures.md)
+[Spells & Liturgic Chants](009spellsandliturgicchants.md)
