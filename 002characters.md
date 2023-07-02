@@ -61,8 +61,8 @@ With experience points, you can purchase [attributes](), [skill values](), and [
 2. Increase the attributes that you need for your desired advantages. Allocate the remaining points to the other attributes, following your intuition, until you have used up a little more than half of your experience points - spellcasters and clerics use slightly less than half.
 3. Distribute the remaining experience points among skill values, talents, free skills, and potentially supernatural abilities. Experiment with different options to see what you like best!
 
-> **What do experience points represent?**
-> EP are a rough measure of your character's abilities and a reward for you to improve your character.
+> **What do experience points represent?**<br>
+> EP are a rough measure of your character's abilities and a reward for you to improve your character.<br>
 > They cannot and should not simulate the real learning of an adventurer. Therefore, there are no EP for months of studying in libraries, and the costs of all abilities are based on their usefulness, not on how difficult they are to learn.
 >**Experience points for Non-Player Characters?**
 > Non-Player Characters (NPCs) in Ilaris follow the same character rules as player characters, meaning they need to fulfill the requirements of advantages, for example.
