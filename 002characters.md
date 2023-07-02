@@ -63,15 +63,15 @@ With experience points, you can purchase [attributes](), [skill values](), and [
 
 > **What do experience points represent?**<br>
 > EP are a rough measure of your character's abilities and a reward for you to improve your character.<br>
-> They cannot and should not simulate the real learning of an adventurer. Therefore, there are no EP for months of studying in libraries, and the costs of all abilities are based on their usefulness, not on how difficult they are to learn.
->**Experience points for Non-Player Characters?**
+> They cannot and should not simulate the real learning of an adventurer. Therefore, there are no EP for months of studying in libraries, and the costs of all abilities are based on their usefulness, not on how difficult they are to learn.<br>
+>**Experience points for Non-Player Characters?**<br>
 > Non-Player Characters (NPCs) in Ilaris follow the same character rules as player characters, meaning they need to fulfill the requirements of advantages, for example.
-> However, in most cases, it will be sufficient to estimate the values of NPCs based on their intended role in the game world. If a special NPC requires generation, the Game Master determines how many EP the NPC receives: A squire of a player knight may only need 2000 EP, while a warlord in the Wilderlands surely deserves 6000 EP.
->**Optional: Simulationist Character Generation**
+> However, in most cases, it will be sufficient to estimate the values of NPCs based on their intended role in the game world. If a special NPC requires generation, the Game Master determines how many EP the NPC receives: A squire of a player knight may only need 2000 EP, while a warlord in the Wilderlands surely deserves 6000 EP.<br>
+>**Optional: Simulationist Character Generation**<br>
 >The character system of Ilaris aims to create equally valuable characters who can each contribute their strengths to the game and shine in the spotlight
 >However, this does not necessarily reflect the reality of Aventuria. In Aventuria, training often depends on time and money, so knights, guild mages, dwarves, and others receive excellent education in many areas, while a beggar can only acquire a few things through experience. Simulationist character generation takes this into account.
->Characters with excellent education, such as warriors, knights, guild mages, elves, many dwarves, many initiates, or students of special mentors, receive 200-400 EP more, which they can primarily use to acquire additional skills and (supernatural) talents. On the other hand, characters disadvantaged by fate start with a starting capital 200 EP lower.
->**Optional: Genre-Specific Experience Points**
+>Characters with excellent education, such as warriors, knights, guild mages, elves, many dwarves, many initiates, or students of special mentors, receive 200-400 EP more, which they can primarily use to acquire additional skills and (supernatural) talents. On the other hand, characters disadvantaged by fate start with a starting capital 200 EP lower.<br>
+>**Optional: Genre-Specific Experience Points**<br>
 > EP serve as motivation for players to engage in adventures. However, in thematic groups, EP can also reward other genre-specific actions.
 >1. The schemers at the imperial court of the Middle Kingdom could receive 20 bonus EP if they maneuver an ally into a position of influence or weave a particularly well-thought-out intrigue—even if they ultimately fail.
 >2. In a swashbuckling game, a spectacular duel on a rooftop could be rewarded with 10 bonus EP.
