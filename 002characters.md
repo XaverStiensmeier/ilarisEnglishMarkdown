@@ -76,3 +76,29 @@ With experience points, you can purchase [attributes](), [skill values](), and [
 >1. The schemers at the imperial court of the Middle Kingdom could receive 20 bonus EP if they maneuver an ally into a position of influence or weave a particularly well-thought-out intrigue—even if they ultimately fail.
 >2. In a swashbuckling game, a spectacular duel on a rooftop could be rewarded with 10 bonus EP.
 >This can provide an additional incentive to engage in genre-specific behavior. We recommend discussing such rewards in advance and always giving the bonus EP to all players.
+
+### 1. Advantages
+Advantages are special abilities that can benefit your character in the game. 
+You can acquire them **during character generation or later in the game**. Therefore, it's not a problem if you're not familiar with all the advantages right now. 
+You can find a list of possible advantages [here](). However, they are also neatly listed in [Sephrasto](https://github.com/Aeolitus/Sephrasto), the character generation tool.
+
+Advantages are acquired "all at once". Either your character possesses an advantage, or they do not. 
+Depending on their power and versatility, advantages **cost 20, 40, 60, 80, or 100 experience points**, and sometimes have specific requirements.
+
+*Judith likes the idea of two weapons and wants Isna-Iti to master the Dual-Wielding style, preferably at Levels I and II. This requires an Agility of 6, which she needs to keep in mind for the next step. 
+She deducts 60 EP from her available EP (20 for Dual-Wielding I and 40 for Dual-Wielding II). She has 1940 EP remaining.<br>
+Additionally, Judith wants Isna-Iti to be able to create useful items without many tools, which is why she considers the Improvisation advantage. However, it requires a Dexterity of 8, which is too costly for an inexperienced novice. 
+With a heavy heart, Judith decides to forgo the advantage and plans to purchase it after the first adventures.*
+
+### 2. Attributes
+Attributes represent the mental and physical foundation of your character. In Ilaris, there are eight attributes: Charisma, Intuition, Intelligence, Courage, Dexterity, Agility, Constitution, and Strength.
+They are described in more detail [here](). Your attributes should range from 0 to 12: 0 is barely a socially acceptable attribute, **3 is average**, 6 is very good, 9 is outstanding, and a character with an attribute of 12 
+belongs to a small circle of unique individuals - although higher attributes are possible. An inexperienced novice should start the game with attributes between 0 and 6.
+Attributes are increased point by point. Each point costs the target value multiplied by 16 experience points.
+
+*First, Judith increases Isna-Iti's Agility to 6 in order to meet the requirements for Dual Wield II.
+She pays 16 EP (1 x 16) for the first point, 32 EP (2 x 16) for the second, 48 EP (3 x 16) for the third, and so on. In total, she spends 336 EP on Agility.
+She also wants Isna-Iti to have good Dexterity, so Judith increases it to 4, paying 160 EP (16 + 32 + 48 + 64) for that.
+For the remaining attributes, Judith relies on her intuition. 
+She increases Isna-Iti's Constitution to 4 (160 EP), Courage to 3 (96 EP), Strength to 2 (48 EP), Intuition to 4 (160 EP), Intelligence to 2 (48 EP), and Charisma to 1 (16 EP).
+In total, Judith has spent 1024 EP on attributes, which is slightly more than half of her points.*
