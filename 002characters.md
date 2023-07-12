@@ -94,7 +94,7 @@ With a heavy heart, Judith decides to forgo the advantage and plans to purchase 
 Attributes represent the mental and physical foundation of your character. In Ilaris, there are eight attributes: Charisma, Intuition, Intelligence, Courage, Dexterity, Agility, Constitution, and Strength.
 They are described in more detail [here](). Your attributes should range from 0 to 12: 0 is barely a socially acceptable attribute, **3 is average**, 6 is very good, 9 is outstanding, and a character with an attribute of 12 
 belongs to a small circle of unique individuals - although higher attributes are possible. An inexperienced novice should start the game with attributes between 0 and 6.
-Attributes are increased point by point. Each point costs the target value multiplied by 16 experience points.
+Attributes are increased point by point. Each point costs the **target value x16** experience points.
 
 *First, Judith increases Isna-Iti's Agility to 6 in order to meet the requirements for Dual Wield II.
 She pays 16 EP (1 x 16) for the first point, 32 EP (2 x 16) for the second, 48 EP (3 x 16) for the third, and so on. In total, she spends 336 EP on Agility.
@@ -102,3 +102,56 @@ She also wants Isna-Iti to have good Dexterity, so Judith increases it to 4, pay
 For the remaining attributes, Judith relies on her intuition. 
 She increases Isna-Iti's Constitution to 4 (160 EP), Courage to 3 (96 EP), Strength to 2 (48 EP), Intuition to 4 (160 EP), Intelligence to 2 (48 EP), and Charisma to 1 (16 EP).
 In total, Judith has spent 1024 EP on attributes, which is slightly more than half of her points.*
+
+### 3. Skill Values and Talents
+Skills are learned abilities, such as Athletics, Magic Lore, or Healing. You can find all skills and their descriptions starting from [here]().
+
+When making skill checks, the **skill value** is one of the determining factors. Skill values are increased point by point, just like attributes, and each point costs the **target value x advancement factor** in experience points. The advancement factor depends on the skill and ranges from 2 to 4. The skill value cannot exceed the **highest** attribute involved in the **skill +2**. You can find information about which attributes are involved in a skill and their advancement factors starting from [here]().
+
+*Judith first increases her skill value in Impact Weapons to 6. Impact Weapons has an advancement factor of 4, so she must spend a total of 84 EP (4 + 8 + 12 + 16 + 20 + 24) for this. She then raises her skill value in Stealth to 5, which - with an advancement factor of 3 - costs a total of 45 EP (3 + 6 + 9 + 12 + 15). Additionally, she increases several other skill values, such as Polearms to 6, Survival to 5, and Craftsmanship to 5. In total, she spends 338 EP on her skill values.*
+
+Each skill is associated with several **talents** that represent a specific aspect of that skill. For example, the Stealth skill includes talents like Stalking and Submerge. Sooner or later, you will need talents because without the appropriate talent, you can still make skill checks, but you can only use **half** of your skill value. You can learn more about talents starting [here]().
+You can purchase as many talents as you like, but if your skill value is below 5, it's usually wiser to simply increase the skill value itself. An inexperienced newcomer typically has between 3 and 6 talents.
+The cost of a talent is **20 x advancement factor EP**. Rarely used talents are **discounted** and cost only **half**. Since every character is familiar with the customs of their own culture, they receive the corresponding talent for free.
+
+*For Isna-Iti's best skill values, Judith naturally wants to acquire talents as well. For the Stealth skill, she chooses the Stalking talent and pays 60 EP (20 x advancement factor 3). The Craftsmanship skill should also have a talent, so Judith selects Woodworking. Woodworking is a discounted talent and costs 30 EP (10 x advancement factor 3). Judith acquires talents for the Impact Weapons, Pole Weapons, and Survival skills as well. Lastly, she receives the South Aventuria talent for the Customs skill as a gift, since Isna-Iti hails from that region. In total, Judith pays 240 EP for her talents.*
+
+### 4. Free Skills
+Free skills encompass various rare crafts, languages, and writings. If you don't want your character to be illiterate, it is advisable to purchase at least one free skill.
+Free skills are divided into **three levels**. With the first level, you are **inexperienced** in this free skill, with the second level, you are **experienced**, and with the third level, you are a **master** of this field. More details about free skills can be found [here]().
+
+You can acquire these levels I/II/III for just **4/8/16 EP**, with the **preceding level** being a **prerequisite**. Naturally, every character is considered a master in their **native language** without having to spend EP for it.
+
+*Judith is already quite satisfied with her character and only purchases a few free skills. She received Mohish III for free and additionally chooses Garethi I for 4 EP, allowing her to at least communicate rudimentarily with her fellow players. Since there is no Mohish script, Judith only purchases Dance II for 12 EP (4 for level I + 8 for level II).*
+
+### 5. Optional: Supernatural Abilities
+If you want to play a character without supernatural abilities, you can safely skip this section. However, if you wish to create a spell caster, cleric, or even a pact-bound character, there are three points you need to consider:
+- You need to acquire an **advantage** that grants your character their supernatural **energy**. For example, magic users need to purchase the advantage **Spell Caster** which grants them Astral Points (AsP).
+- Additionally, you must acquire a **tradition advantage** that allows you to utilize your supernatural abilities. For example, a spell caster might acquire a magical tradition such as that of the **Druids**.
+- Lastly, you will need to increase **supernatural skills** and **talents**. The latter is a collective term for **spells**, **liturgies**, and **invocations**. For example, a [Druid]() could increase their supernatural skill [Influence]() and unlock the supernatural talents (or spells) [Evil Eye]() and "Mastery of the [Animal Kingdom]().
+
+| | Spell Caster | Cleric | Pact-bound |
+| |:------------:|:------:|:----------:|
+| Advantage | Spell Caster | Cleric | Pact-bound |
+| Energy    | Astral Points (AsP) | Karma Points (KaP) | Favor Points (FaP) |
+| Tradition | Magical | Karmal | Pact |
+| sup. Talents | Spells | Liturgies | Invocations |
+
+MISSING
+
+| | Steigerungskosten |
+|::|::|
+| Vorteile | je nach Vorteil |
+| Attribute  | Zielwert x 16 |
+| Fertigkeiten | Zielwert x Steigerungsfaktor |
+| Talente/verbilligte Talente | 20/10 x Steigerungsfaktor |
+| Freie Fertigkeiten | 4/8/16 für Stufe I/II/III |
+| Übernatürliche Fertigkeit | Zielwert x Steigerungsfaktor |
+| Übernatürliche Talente | je nach Talent |
+| Zugekaufte Energie | Zielwert |
+
+
+
+
+
+
