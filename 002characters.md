@@ -91,7 +91,7 @@ Additionally, Judith wants Isna-Iti to be able to create useful items without ma
 With a heavy heart, Judith decides to forgo the advantage and plans to purchase it after the first adventures.*
 
 ##### 2. Attributes
-Attributes represent the mental and physical foundation of your character. In Ilaris, there are eight attributes: Charisma, Intuition, Intelligence, Courage, Dexterity, Agility, Constitution, and Strength.
+Attributes represent the mental and physical foundation of your character. In Ilaris, there are eight attributes: Charisma, Intuition, Reasoning, Spirit, Dexterity, Agility, Constitution, and Strength.
 They are described in more detail [here](). Your attributes should range from 0 to 12: 0 is barely a socially acceptable attribute, **3 is average**, 6 is very good, 9 is outstanding, and a character with an attribute of 12 
 belongs to a small circle of unique individuals - although higher attributes are possible. An inexperienced novice should start the game with attributes between 0 and 6.
 Attributes are increased point by point. Each point costs the **target value x16** experience points.
@@ -100,7 +100,7 @@ Attributes are increased point by point. Each point costs the **target value x16
 She pays 16 EP (1 x 16) for the first point, 32 EP (2 x 16) for the second, 48 EP (3 x 16) for the third, and so on. In total, she spends 336 EP on Agility.
 She also wants Isna-Iti to have good Dexterity, so Judith increases it to 4, paying 160 EP (16 + 32 + 48 + 64) for that.
 For the remaining attributes, Judith relies on her intuition. 
-She increases Isna-Iti's Constitution to 4 (160 EP), Courage to 3 (96 EP), Strength to 2 (48 EP), Intuition to 4 (160 EP), Intelligence to 2 (48 EP), and Charisma to 1 (16 EP).
+She increases Isna-Iti's Constitution to 4 (160 EP), Spirit to 3 (96 EP), Strength to 2 (48 EP), Intuition to 4 (160 EP), Intelligence to 2 (48 EP), and Charisma to 1 (16 EP).
 In total, Judith has spent 1024 EP on attributes, which is slightly more than half of her points.*
 
 ##### 3. Skill Values and Talents
@@ -216,3 +216,135 @@ Aspects also represent the weaknesses and quirks of your character and can be co
 *Finally, Valeria has made it to the surrounding plantations and she sets out on her way to the country villa of a loyal friend. The Game Master offers Christiane a fate point to invoke the aspect "A Child of the City" Christiane accepts the offer, and Valeria becomes hopelessly lost in the thickets.*
 
 If you refuse to invoke an aspect in a truly critical situation, the Game Master may **increase the stakes**. Instead of receiving one fate point, you now receive two if you allow the aspect to be compelled.
+
+> **How disadvantageous is it to compell an aspect?**<br>
+The invoked aspect should be a noticeable disadvantage for the character, but it should not cause the adventure to fail.<br>
+*Too lenient*: The boisterous Thorwalian woman insults the guests in a tavern. The innkeeper threatens to throw her out.<br>
+*Appropriate*: Due to the disruptive behavior of the Thorwalian woman, a small brawl ensues in which she also takes some hits.<br>
+*Appropriate*: The Thorwalian woman misbehaves at a celebration in a baron's hunting lodge. The baron is angered and unsympathetic to the group's requests (Skill checks -4).<br>
+*Too harsh*: The baron is furious and has all the player characters imprisoned.<br><br>
+> **How often are fate points awarded?**<br>
+As a rule of thumb, in a group of four players, the Game Master should give each player the opportunity to earn a fate point per evening. In smaller gaming groups, you may have more opportunities to earn fate points, while in larger gaming groups, you may have fewer fate points available.<br><br>
+> **Optional: Regeneration of Fate Points**<br>
+At the end of an adventure or adventure section, each character receives a fate point. This allows the Game Master to not have to invoke the characters' aspects as frequently, but it also reduces the value of negative aspects.<br><br>
+**Aspects and Fate Points for NPCs?**
+In addition to player characters, only a few NPCs that are significant to your campaign possess fate points. It could be the ranger who accompanies you on every wilderness journey and has become a loyal friend, or it could be the treacherous baron whom you want to bring down.<br>
+Only NPCs with fate points can have aspects and invoke them. However, you don't need to fully develop all aspects for these special NPCs. In most cases, it is sufficient if they can benefit from similar advantages in appropriate situations. For example, the sinister demon summoner might gain two additional dice when summoning a Zant - but not to evade a sword strike from a character.
+
+### Choosing Your Aspects
+
+Aspects are meant to make your character unique. That's why there are no lists or tables of aspects - it's all up to your creativity and the preferences of your gaming group. However, while you can probably come up with aspects for your character quickly, there are some points to consider:
+
+1. **Balance Strengths and Weaknesses**: Even though it may be tempting, don't only choose advantageous aspects. If your aspects cannot be compelled, you may quickly find yourself without fate points and unable to invoke your aspects. On the other hand, a character with too many hindering aspects may struggle to spend their fate points effectively. Therefore, a well-rounded character needs both strengths and weaknesses. Ideally, each aspect should have both positive and negative aspects (like "Child of the City" in the examples) and can be both invoked and compelled.
+2. **Not Too Specific, Not Too General**: Before choosing an aspect, think about potential ways to use it. If you can only think of one scene where you can invoke the aspect, it's probably too specific. Try to make it more general or expand it to include new aspects. For example, "Expert in Saurology" could become "Student of Rakorium Mutagonus," who also sees lizardman conspiracies everywhere. On the other hand, aspects like "extraordinarily clever" are too general and need to be narrowed down. The GM can veto overly general aspects.
+3. **The more meaningful, the better**: The name of your aspect should speak for itself and be memorable. "I've seen a lot..." needs further explanation, while "Traumatized Veteran" already tells you everything. However, "Traumatized Veteran" still sounds a bit general, so an even better option would be "I've witnessed the horrors of the Demon Master...".
+4. **The mix is key**: Avoid choosing too many similar aspects. "Student of the Sword and Shield Academy in Baliho" and "Honorable Warrior" are almost the same and can be combined into one aspect. Aspects can also relate not only to character traits but also to relationships, origins, and goals. A good aspect even connects multiple aspects of these points. "Honorable Warrior from Baliho" reveals something about the character, their past, and possibly even their relationships with former comrades or teachers.
+
+If you're unsure about your aspects, you can discuss them with your fellow players and work together to come up with the best aspects. Alternatively, you can try out an aspect and adjust it if necessary after the first few game sessions.
+
+|Trait                                         |Description                                                                                                                                                                                                                                                 |
+|:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Student of Rakorium Muntagonus                |Your master has bequeathed to you a vast treasure of saurological knowledge - and a multitude of paranoid conspiracy theories.                                                                                                                              |
+|For the Goddess, for Rondra!                  |Since your childhood, you have been taught the value of honorable combat. You excel in rondra-style duels and give everything for the defenseless, even if it puts you in danger.                                                                           |
+|Bookworm                                      |During your many years at the Puniner Academy, you have absorbed the knowledge from countless volumes. There is no spell you don't know, no emperor you haven't read about. However, there is much out there that isn't written in books...                 |
+|Prem fire is my water                         |The tavern is your second home. You effortlessly strike up conversations, learn news and rumors. Add a drink or two, and the evening is perfect.                                                                                                            |
+|Trust only yourself!                          |Bitter experiences have taught you that trust is always eventually betrayed. You quickly sense lies and betrayal, sometimes rightly and sometimes wrongly.                                                                                                  |
+|Naturally, Signora!                           |You fascinate noble ladies - and they fascinate you. This has enabled you to engage in numerous scams, but it has also earned you the animosity of half of Kuslik's upper class (The other half is too concerned about their reputation).                   |
+|In the service of Ban                         |Punishing blasphemous spellcasters. The sinners lurk everywhere, but you have learned to see through their lies and bring them to justice.                                                                                                                  |
+|Dishonorably discharged Ban practitioner      |Nobles avoid your presence, and courtiers huddle together when you are near. But even though your bad reputation precedes you, you haven't lost any of your instincts.                                                                                      |
+|Creature of the night                         |Mada looks favorably upon spellcasters, and indeed, magic comes easily to you at night. Much easier, at least, than under Praios' scorching gaze, which has caused fatal errors to creep into your matrices in the past.                                    |
+|Phex gives, Phex takes                        |Money almost falls into your lap. Your payment for assignments is always generous, and you get the best prices in trade. But the money never lasts long, thanks to extensive shopping trips or revelry in the finest house in town.                         |
+|The volcano rarely erupts, but when it does...|You are blessed with seemingly infinite patience. You never lose your composure, act hastily, or let yourself be provoked. But should Angrosch's holy wrath possess you, woe betide those upon whom your anger falls!                                       |
+|I report directly to the Grand Inquisitor.    |Grand Inquisitor da Vanya is your mentor, entrusting you with special assignments and standing by your side in many respects. However, your status also requires a demeanor that others would call arrogant.                                                |
+|Knowledge is power                            |Your keen sense for rumors and dark secrets gives you power over others. But you enjoy wielding this power too much, and sometimes a friendly word would be the easier way to achieve your goals.                                                           |
+|Encyclopedia Pisces                           |You are constantly working on a monumental work about fish, possessing breathtaking expertise on the subject. This earns you an excellent reputation among a few scholars, while everyone else considers you mad.                                           |
+|But he looked so innocent...                  |Your childish face is advantageous in your numerous scams and rogue activities. However, it makes it difficult to impress or intimidate someone.                                                                                                            |
+|Academy leader in place of the academy leader |Without regard for morality, you gather research results to one day return to the Al’Achami as the academy leader - something Thomeg Atherion is determined to prevent by any means.                                                                        |
+|Bearer of the Ancestral Blade                 |The Ancestral Blade Fjollgard has been wielded by the chieftains of Vinsand since time immemorial, and everyone expects you to prove yourself worthy of it. For those who behave dishonorably, the ancestors will frown upon them and bring them misfortune.|
+|Grandiose, simply grandiose!                  |Your performance is always something special, whether you shine at a court ball or put yourself in danger for it.                                                                                                                                           |
+|I have seen the horrors of the Demon Master...|You are a veteran of the Borbarad invasion, and many of the horrors from that time will not surprise you again. However, sometimes the memories return, and trembling, fear, and paranoia overwhelm you.                                                    |
+|Never loses a trail                           |You are a born hunter. Whether it's a deer in the forest or a criminal in the city, sooner or later, you will track them down. However, this thrill has become an addiction, and you pursue your target at any cost.                                        |
+
+## Status
+The status determines how your character is perceived in civilized society. It is not synonymous with your character's social class - for example, a wealthy merchant would have a higher status than a impoverished noble.
+
+The status primarily relates to the background of the character and should correspond to your idea of the character. In terms of gameplay, privileges such as a noble title or a warrior's license must be purchased as advantages.
+
+In terms of rules, the status only affects the **cost of living**. This indicates the approximate amount your character spends per month on accommodation, food, clothing, entertainment, and all other daily expenses, assuming they are not self-sufficient or living at someone else's expense. The [Income]() advantage can help cover high living costs.
+
+### Elite
+Members of the elite are accustomed to giving orders and occupying leadership positions. They have likely never had to worry about their livelihood and consider exquisite food, servants, stays in noble hotels, and travel in their own carriage or on horseback as a matter of course. However, their behavior is closely observed by the public and should always adhere to etiquette or their code of honor.<br>
+**Examples**: Nobility, wealthy patricians, church dignitaries, dignitaries and business magnates, mountain kings<br>
+**Cost of Living**: minimum of 256 ducats per month<br>
+**Note**: Noble members of the elite should choose the [Privileges (Nobility)]() advantage during character creation.
+
+### Upper Class
+The upper class also enjoys numerous privileges, but they are often aware of the worries and needs of the less fortunate. In their households, meat is served daily, and they have enough money for multiple sets of clothing, down-to-earth entertainment, and travel on their own horse or in a rented carriage.<br>
+**Examples**: Lower nobility, respected sorceresses, scholars, ordained individuals and officers, wealthy bourgeoisie, wise members of elven clans, dwarf clan leaders<br>
+**Cost of Living**: 64 ducats per month
+
+### Middle Class
+Ascending to the middle class is the dream of many disadvantaged individuals. For them, the modest lifestyle of weekly visits to the tavern, regular hygiene, or having their own apartment or house already feels like paradise. However, this modest luxury also requires hard work, and a social decline is often just one stroke of fate away.<br>
+**Examples**: Respected citizens and craftsmen, large farmers, simple ordained individuals, wizards and academy graduates, impoverished nobles, chieftains from "barbaric" cultures, many elves and dwarves<br>
+**Cost of Living**: 16 ducats per month
+
+### Lower Class
+The poor make up the majority of the population in almost every human society. The little they often earn through hard physical labor is consumed by taxes, levies, or protection money. The meager remainder is usually only enough for a small room, cheap food, and patched clothing. Longer journeys are often impossible. Members of the lower class are shaped by the struggle for daily survival and have learned the necessary tricks for it. Art and lofty ideals usually mean less to them.<br>
+**Examples**: Poor citizens, free or serf small farmers, soldiers, members of barbaric cultures<br>
+**Cost of Living**: 4 ducats per month
+
+### Scum
+Even the lower class looks down upon the scum, who are constantly threatened by death from hunger, exhaustion, heat, or cold. The scum is either dependent on a master through serfdom or slavery or has no rights at all as a wandering people, criminals, or day laborers.<br>
+**Examples**: Slaves, poor serfs, vagabonds, migrant workers<br>
+**Cost of Living**: 1 ducat per month
+
+
+## Attributes
+The eight attributes in total represent the mental and physical foundation of your character. Sometimes you make checks directly against attributes, with the check value being twice the attribute value. Additionally, they determine your derived values (see below), influence the base value for check values (p. 20), and are required for many advantages (see [here]()).
+
+**Charisma (CH)** is the natural charm of your character towards their surroundings. It represents leadership qualities, self-confidence, persuasiveness, and a winning personality. All social skills depend on your charisma, and elementalists also require high charisma.<br>
+**Influences**: 
+
+**Dexterity (DX)** is the manual dexterity of your character. They possess good hand-eye coordination and can perform fine movements quickly and flawlessly. Craftsmen, ranged fighters, and artifact creators should not overlook high dexterity.<br>
+**Influences**: [Initiative]()
+
+**Agility (AG)** is the agility and suppleness of your character. Agile characters move smoothly and can estimate their movements well. This enhances your physical and combat skills and increases your **speed**.<br>
+**Influences**: 
+
+**Intuition (IN)** allows your character to quickly assess people and situations correctly. It also represents your character's perception and empathy. Intuition influences a wide range of skills and determines your **initiative** in combat.<br>
+**Influences**: 
+
+**Strength (ST)** measures the physical strength of your character. Strong characters can lift heavy loads and deal more damage with their attacks due to the higher **damage bonus**. Therefore, high strength is particularly helpful for combat-oriented characters.<br>
+**Influences**: 
+
+**Reasoning (RE)** is the logical thinking ability of your character and their ability to recognize and analyze complex connections. Intelligent characters also have good general knowledge. High reasoning is indispensable for many social and knowledge skills.<br>
+**Influences**: 
+
+**Constitution (CO)** describes the resilience of your character against external influences such as strain, poisons, diseases, and injuries. Constitution only affects a few skills but determines your **wound threshold**, the most important base value (see below).<br>
+**Influences**: 
+
+**Spirit (SP)** A spirited character keeps a cool head in critical situations and does not shy away from danger, which is essential in close combat. In addition, spirit strengthens resistance against magical influences by increasing your **magic resistance**. Even demonologists require high spirit.<br>
+
+## Derived Values
+The derived values are calculated from your attributes. You cannot directly increase them but must either increase the attributes or acquire specific advantages.
+
+**Wound Threshold (WT)**: The Wound Threshold determines how well your character can withstand damage. Damage up to your Wound Threshold is painful but not really dangerous. Only damage amounts exceeding your Wound Threshold can impair or even kill your character. The Wound Threshold is **4 + 1 for every 4 full points of Constitution (CO)**. With the [Indomitable]() advantage, you can increase the WT by +1.
+
+**Magic Resistance (MR)**: Magic Resistance is the resistance against magic. Many spells only affect your character if they overcome their Magic Resistance in a comparative test. The Magic Resistance is **4 + 1 for every 4 full points of Spirit (SP)**. The advantages [Strong-Willed I]() and [II]() and [Indomitable]() further increase the MR.
+
+**Speed (S)**: Speed represents the quickness and agility of your character. It determines how far they can move in combat and also helps in foot chases. **Speed is 4 + 1 for every 4 full points of Agility (AG)**. Additional increases in SPD can be obtained with the [Swift I]() and [II]() advantages (p. 58).
+
+**Initiative (INI)**: Initiative represents reaction speed and situational awareness in combat. Fighters with high initiative can act faster at the beginning of a fight and take the first strike. **Initiative** is **equal** to the **Intuition** attribute (IN). The [Combat Reflexes]() advantage further increases INI.
+
+**Damage Bonus**: High Strength (ST) increases weapon damage for all melee and thrown weapon attacks. Heavy-headed weapons benefit even more from the damage bonus. For every **4 full points of Strength**, you receive **+1** to the damage bonus.
+
+|Derived Value                                 |Calculation                                                                                                                                                                                                                                                 |
+|:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Wound Threshold                               |4 + 1 for every 4 full points of Constitution (CO)                                                                                                                                                                                                          |
+|Magic Resistance                              |4 + 1 for every 4 full points of Spirit (SP)                                                                                                                                                                                                                |
+|Speed                                         |4 + 1 for every 4 full points of Agility (AG)                                                                                                                                                                                                               |
+|Initiative                                    |Equals the Intuition attribute (IN)                                                                                                                                                                                                                         |
+|Damage Bonus                                  |+1 for every 4 full points of Strength (ST)                                                                                                                                                                                                                 |
+|Endurance                                     |CO - 2 x BE (see [here]())                                                                                                                                                             |
+
+## 
